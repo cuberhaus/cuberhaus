@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning computer science at the Universitat Politecnica de Catalunya
-- 🔭 I’m currently working on a personal website 
+- 🌱 I’m a Graduate in computer science at the Universitat Politecnica de Catalunya
+- 🔭 I’m currently working @ MGS Seguros y Reaseguros SA as a Data Analyst
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: At my [LinkedIn](https://www.linkedin.com/in/pol-casacuberta-8b6a67198/) or [email](mailto:polcg10@gmail.com)
