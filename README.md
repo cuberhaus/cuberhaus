@@ -1,6 +1,6 @@
 # Pol Casacuberta Gil
 
-> **Data & AI Consultant @ Deloitte** | **Computer Science Graduate, UPC**
+> **Data & AI Engineer @ Deloitte** | **Computer Science Graduate, UPC**
 
 <p>
   <a href="https://www.linkedin.com/in/pol-casacuberta-8b6a67198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=cuberhaus&color=24292e&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-I'm a computer science graduate from the Universitat Politècnica de Catalunya, currently working as a Data & AI Consultant at Deloitte. I'm passionate about building data-driven solutions and exploring new technologies. I am always open to collaborating on interesting open-source projects!
+I'm a computer science graduate from the Universitat Politècnica de Catalunya, currently working as a Data & AI Engineer at Deloitte. I'm passionate about building data-driven solutions and exploring new technologies. I am always open to collaborating on interesting open-source projects!
 
 ---
 
