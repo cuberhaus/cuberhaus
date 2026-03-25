@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=radical" alt="cuberhaus's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
 </p>
 
 ---
