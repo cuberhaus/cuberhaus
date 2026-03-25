@@ -3,7 +3,7 @@
 > **Data & AI Engineer @ Deloitte** | **Computer Science Graduate, UPC**
 
 <p>
-  <a href="https://www.linkedin.com/in/pol-casacuberta-8b6a67198/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pol-casacuberta-8b6a67198/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:polcg10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=cuberhaus&color=24292e&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
