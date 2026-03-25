@@ -32,6 +32,7 @@ I'm a computer science graduate currently working as a Data & AI Consultant at D
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="cuberhaus's GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Langs" />
 </p>
 
