@@ -35,14 +35,3 @@ I'm a computer science graduate currently working as a Data & AI Consultant at D
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Langs" />
 </p>
 
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/cuberhaus/PersonalPortfolio/issues/6#issuecomment-4125757872) in [cuberhaus/PersonalPortfolio](https://github.com/cuberhaus/PersonalPortfolio)
-2. 🔒 Closed issue [#6](https://github.com/cuberhaus/PersonalPortfolio/issues/6) in [cuberhaus/PersonalPortfolio](https://github.com/cuberhaus/PersonalPortfolio)
-3. 🔒 Closed issue [#4](https://github.com/cuberhaus/PersonalPortfolio/issues/4) in [cuberhaus/PersonalPortfolio](https://github.com/cuberhaus/PersonalPortfolio)
-4. 🔒 Closed issue [#7](https://github.com/cuberhaus/PersonalPortfolio/issues/7) in [cuberhaus/PersonalPortfolio](https://github.com/cuberhaus/PersonalPortfolio)
-5. 🎉 Merged PR [#11](https://github.com/cuberhaus/PersonalPortfolio/pull/11) in [cuberhaus/PersonalPortfolio](https://github.com/cuberhaus/PersonalPortfolio)
-<!--END_SECTION:activity-->
