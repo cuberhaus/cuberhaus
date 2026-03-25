@@ -1,0 +1,5 @@
+You are working on the `cuberhaus/cuberhaus` repository, which is a special repository containing Pol's GitHub Profile README.
+
+# Rules
+- **DO NOT DELETE `README_backup.md`**. This file serves as a safe backup of the original state of the profile before significant dynamic modifications were made. It should be kept intact.
+- Keep the design of `README.md` extremely clean, dark-mode compatible, and professional (Data & AI Engineer focus).
