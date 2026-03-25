@@ -1,15 +1,14 @@
-# Hi there 👋 I'm Pol
+# Pol Casacuberta Gil
+
+> **Data & AI Consultant @ Deloitte** | **Computer Science Graduate, UPC**
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fe428e&width=435&lines=Data+%26+AI+Consultant+%40+Deloitte;Computer+Science+Graduate;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/pol-casacuberta-8b6a67198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:polcg10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cuberhaus&color=24292e&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cuberhaus&color=blue)
-
-- 🌱 I’m a Graduate in computer science at the Universitat Politecnica de Catalunya
-- 🔭 I’m currently working @ Deloitte as a Consultant in Data & AI
-- 👯 I’m looking to collaborate on any open source project
-- 📫 How to reach me: At my [LinkedIn](https://www.linkedin.com/in/pol-casacuberta-8b6a67198/) or [email](mailto:polcg10@gmail.com)
+I'm a computer science graduate currently working as a Data & AI Consultant at Deloitte. I'm passionate about building data-driven solutions and exploring new technologies. I am always open to collaborating on interesting open-source projects!
 
 ---
 
@@ -31,10 +30,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=radical" alt="cuberhaus's GitHub stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="cuberhaus's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Langs" />
 </p>
 
 ---
