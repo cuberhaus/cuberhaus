@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=cuberhaus&color=24292e&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-I'm a computer science graduate currently working as a Data & AI Consultant at Deloitte. I'm passionate about building data-driven solutions and exploring new technologies. I am always open to collaborating on interesting open-source projects!
+I'm a computer science graduate from the Universitat Politècnica de Catalunya, currently working as a Data & AI Consultant at Deloitte. I'm passionate about building data-driven solutions and exploring new technologies. I am always open to collaborating on interesting open-source projects!
 
 ---
 
