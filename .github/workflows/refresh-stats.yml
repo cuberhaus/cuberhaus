@@ -1,0 +1,50 @@
+name: Refresh GitHub stats SVGs
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download stats SVGs
+        run: |
+          mkdir -p assets
+          # If the service is down, curl --fail returns non-zero and we keep
+          # whatever was previously committed. We never overwrite a good SVG
+          # with an error page.
+          download() {
+            local url="$1"
+            local dest="$2"
+            local tmp
+            tmp="$(mktemp --suffix=.svg)"
+            if curl -fsSL --max-time 30 "$url" -o "$tmp" && [ -s "$tmp" ]; then
+              mv "$tmp" "$dest"
+              echo "  refreshed $dest"
+            else
+              rm -f "$tmp"
+              echo "  WARN: failed to refresh $dest (service down?), keeping previous"
+            fi
+          }
+
+          download "https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" assets/github-stats.svg
+          download "https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" assets/top-langs.svg
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore: refresh GitHub stats SVGs"
+          git push

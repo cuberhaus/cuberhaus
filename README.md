@@ -31,9 +31,13 @@ I'm a computer science graduate from the Universitat Politècnica de Catalunya, 
 
 ### 📊 GitHub Stats
 
+<!--
+  These SVGs are refreshed daily by .github/workflows/refresh-stats.yml so the
+  README never breaks when github-readme-stats.vercel.app is down.
+-->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cuberhaus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="cuberhaus's GitHub stats" />
+  <img src="assets/github-stats.svg" alt="cuberhaus's GitHub stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuberhaus&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Langs" />
+  <img src="assets/top-langs.svg" alt="Top Langs" />
 </p>
 
