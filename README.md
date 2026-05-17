@@ -1,6 +1,6 @@
 # Pol Casacuberta Gil
 
-> **Data & AI Engineer @ Deloitte** | **Computer Science Graduate, UPC**
+> **AI & ML Engineer @ Deloitte** | **Computer Science Graduate, UPC**
 
 <p>
   <a href="https://www.linkedin.com/in/pol-casacuberta-8b6a67198/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
