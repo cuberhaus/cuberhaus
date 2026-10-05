@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pol Casacuberta Gil's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 1562, Total PRs: 246, Total Issues: 190, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 1571, Total PRs: 246, Total Issues: 190, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.92701635794854;
+        stroke-dashoffset: 63.91343404021549;
       }
     }
   
