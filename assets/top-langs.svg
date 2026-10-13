@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="68.54"
+          width="68.53"
           height="8"
           fill="#e16737"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="68.54"
+          x="68.53"
           y="0"
-          width="49.84"
+          width="49.83"
           height="8"
           fill="#e34c26"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="118.38000000000001"
+          x="118.36"
           y="0"
-          width="38.85"
+          width="38.84"
           height="8"
           fill="#555555"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="157.23000000000002"
+          x="157.2"
           y="0"
-          width="32.24"
+          width="32.28"
           height="8"
           fill="#89e051"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="189.47000000000003"
+          x="189.48"
           y="0"
-          width="31.52"
+          width="31.51"
           height="8"
           fill="#b07219"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="220.99000000000004"
+          x="220.98999999999998"
           y="0"
           width="29.02"
           height="8"
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e16737" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MATLAB 27.42%
+        MATLAB 27.41%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -212,14 +212,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 12.89%
+        Shell 12.91%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 12.61%
+        Java 12.60%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
